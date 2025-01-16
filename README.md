@@ -1,6 +1,6 @@
 Este proyecto es una aplicación que utiliza la inteligencia artificial para responder preguntas a través de una interfaz gráfica creada con Tkinter.
 
-Características
+Características:
 
 Interfaz Gráfica: Utiliza Tkinter para crear una interfaz de usuario amigable.
 
